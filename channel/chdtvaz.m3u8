@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-PLAYLIST-TYPE:event
-#EXT-X-STREAM-INF:BANDWIDTH=4096000
+#EXT-X-STREAM-INF:BANDWIDTH=1500000
 https://live.yayingold.com.tr/chdtvazlive/index.m3u8
